@@ -1,0 +1,6 @@
+.navbar {
+  background-color: rgba(133, 21, 21, 0.5); /* 使用rgba顏色設置透明度 */
+}
+.box {
+  margin-top: 20px;
+}
